@@ -1,5 +1,4 @@
-
-## Ex.4 Deployment and configuration of a Private Cloud  in AWS
+# Ex.4 Deployment and configuration of a Private Cloud  in AWS
 
 ## Aim:
 To set up of a Private Cloud  in AWS.
